@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Emmet",
+		"Git",
+		"Markdown Preview",
+		"Package Control",
+		"PySide",
+		"Python 3",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Color Schemes"
+	]
+}
